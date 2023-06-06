@@ -1,4 +1,4 @@
-# Event App
+# Rent My Space
 <h6 align="center">
 	<a href="https://github.com/gtotheo4">↩ Back To Geo Granda's Profile</a>
 </h6>

@@ -7,7 +7,7 @@ Rent My Space built with Flutter
 
 <p align="center">
   <b>Tools > Get Tools and Features > Download Mobile Development with .NET</b><br><br>
-  <img src="https://github.com/gtotheo4/UMRentMySpace/blob/main/rent-my-space-master/Images/188787191-d01cad83-3bc4-4800-9476-74105da20f34.jpg?raw=true">
+  <img src="https://github.com/gtotheo4/UMRentMySpace/blob/main/rent-my-space-master/images/188787191-d01cad83-3bc4-4800-9476-74105da20f34.jpg?raw=true">
 </p>
 <br>
 
